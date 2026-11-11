@@ -1,0 +1,35 @@
+# ============================================================
+# Statement-to-Insights Finance Agent — Dependencies
+# ============================================================
+
+# --- Core Framework ---
+streamlit>=1.35.0
+
+# --- LangChain Ecosystem ---
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+
+# --- LLM Provider ---
+openai>=1.30.0
+
+# --- Vector Store ---
+chromadb>=0.5.0
+
+# --- Data Processing ---
+pandas>=2.0.0
+numpy>=1.26.0
+
+# --- PDF Parsing ---
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+
+# --- Visualisation ---
+plotly>=5.20.0
+matplotlib>=3.8.0
+
+# --- Utilities ---
+python-dotenv>=1.0.0
+tiktoken>=0.7.0
+

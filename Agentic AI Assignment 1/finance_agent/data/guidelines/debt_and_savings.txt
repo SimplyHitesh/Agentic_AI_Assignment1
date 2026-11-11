@@ -1,0 +1,14 @@
+# Debt Management & Emergency Fund Guidelines
+
+1. Emergency Fund Rule of Thumb:
+   - Must hold 3 to 6 months' worth of essential living expenses (rent + utilities + food + minimum debt EMIs).
+   - Keep this fund in high-liquidity, low-risk accounts (savings bank accounts, sweep-in fixed deposits, or liquid mutual funds).
+   - Never invest the emergency fund in equities, volatile crypto, or lock-in instruments.
+
+2. Debt Repayment Strategies:
+   - High-interest debt (Credit cards @ 36-42% APR, personal loans @ 12-18% APR) must be attacked first using the Avalanche Method (paying highest interest rate first) or Snowball Method (paying smallest balance first for psychological momentum).
+   - Low-interest debt (Home loans @ 8-9% APR, education loans) can be serviced with scheduled EMIs while investing spare cash in long-term index funds if returns exceed loan interest.
+
+3. The Cash Flow Buffer:
+   - Maintain a working buffer of at least 15-20% of monthly income in the primary checking/salary account to prevent overdrafts, late fees, or bounce charges.
+

@@ -1,0 +1,35 @@
+# Spending Category Benchmarks & Optimal Thresholds
+
+Recommended maximum allocations as a percentage of total net income:
+
+1. Housing & Rent:
+   - Target: 25% to 30% of net income.
+   - Overspending Alert: Over 35% strains liquidity, leaving very little room for savings.
+   - Action: If renting, consider roommates or a location with lower rent; avoid taking loans that push EMIs beyond 40% of income.
+
+2. Food & Dining vs. Groceries:
+   - Groceries Target: 8% to 12% of income (cooking at home is highly cost-effective).
+   - Food Delivery & Dining Out Target: Max 5% to 8% of income.
+   - Overspending Alert: Frequent ordering on apps (Zomato, Swiggy, DoorDash) often causes dining spending to balloon beyond 15% of income.
+   - Action: Cap food deliveries to 1-2 times per week; prepare meals in advance; pack lunch for office.
+
+3. Transportation:
+   - Target: 5% to 10% of net income.
+   - Includes: Fuel, metro/train passes, auto/cab rides (Uber, Ola, Rapido), vehicle maintenance.
+   - Overspending Alert: Daily surge-pricing cab rides can cost up to 3x public transit or carpooling.
+   - Action: Combine errands; use metro/bus for fixed commutes; switch to 2-wheeler or monthly passes.
+
+4. Utilities & Bills:
+   - Target: 4% to 8% of income.
+   - Includes: Electricity, water, cooking gas, broadband/Wi-Fi, mobile recharges.
+   - Action: Audit broadband/mobile plans to ensure you are not paying for unused high-tier data packs.
+
+5. Shopping & Retail:
+   - Target: 5% to 8% of income.
+   - Overspending Alert: Impulsive e-commerce purchases (Amazon, Flipkart, clothing sales).
+   - Action: Apply the 48-Hour Rule: wait 48 hours before purchasing any non-essential item over ₹1,000.
+
+6. Entertainment & Subscriptions:
+   - Target: 2% to 4% of income.
+   - Action: Audit recurring subscriptions monthly. Cancel unused streaming platforms or share family plans.
+

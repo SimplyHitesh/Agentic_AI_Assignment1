@@ -1,0 +1,23 @@
+# 50/30/20 Budgeting Rule & Core Principles
+
+The 50/30/20 rule is a widely accepted personal finance framework:
+1. Needs (50% of net income):
+   - Non-negotiable essentials required to live and work.
+   - Includes: Housing (rent/mortgage EMI), essential groceries, basic utilities (electricity, water, gas, Wi-Fi), healthcare/medicines, minimum debt obligations, and baseline commute.
+   - If Needs exceed 50%, look for housing downsizing, utility audit, or refinancing high-cost debt.
+
+2. Wants (30% of net income):
+   - Discretionary lifestyle spending that improves quality of life but is not essential for survival.
+   - Includes: Dining out, food delivery (Swiggy, Zomato), leisure shopping, streaming subscriptions (Netflix, Spotify), entertainment, vacations, luxury gadgets, and hobbies.
+   - When savings lag or unexpected expenses occur, Wants is the first category that should be trimmed.
+
+3. Savings & Debt Overpayment (20% of net income):
+   - Building future security and wealth.
+   - Priority 1: High-interest debt payoff (credit card balances, personal loans).
+   - Priority 2: Emergency fund creation (3-6 months of living expenses in liquid funds/FD).
+   - Priority 3: Retirement and long-term investments (PPF, EPF, Index mutual funds, SIPs).
+
+Warning Flags:
+- If Wants exceed 35% of monthly income, the individual is at high risk of lifestyle inflation.
+- If Total Debits exceed Total Inflow, the individual is in net negative cash flow (dissaving).
+
